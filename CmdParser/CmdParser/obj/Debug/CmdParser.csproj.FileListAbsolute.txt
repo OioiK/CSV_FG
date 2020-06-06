@@ -1,0 +1,12 @@
+C:\epamTesting\epam_04.05.19\CmdParser\CmdParser\bin\Debug\CmdParser.dll
+C:\epamTesting\epam_04.05.19\CmdParser\CmdParser\bin\Debug\CmdParser.pdb
+C:\epamTesting\epam_04.05.19\CmdParser\CmdParser\obj\Debug\CmdParser.csproj.CoreCompileInputs.cache
+C:\epamTesting\epam_04.05.19\CmdParser\CmdParser\obj\Debug\CmdParser.dll
+C:\epamTesting\epam_04.05.19\CmdParser\CmdParser\obj\Debug\CmdParser.pdb
+C:\epamTesting\epam_04.05.19\CmdParser\CmdParser\obj\Debug\CmdParser.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EpamTesting-master\CmdParser\CmdParser\bin\Debug\CmdParser.dll
+C:\Users\User\source\repos\EpamTesting-master\CmdParser\CmdParser\bin\Debug\CmdParser.pdb
+C:\Users\User\source\repos\EpamTesting-master\CmdParser\CmdParser\obj\Debug\CmdParser.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EpamTesting-master\CmdParser\CmdParser\obj\Debug\CmdParser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EpamTesting-master\CmdParser\CmdParser\obj\Debug\CmdParser.dll
+C:\Users\User\source\repos\EpamTesting-master\CmdParser\CmdParser\obj\Debug\CmdParser.pdb
