@@ -12,9 +12,11 @@ namespace gen_csv
             var cmdArgsValidator = new CmdArgsValidator();
             cmdArgsValidator.AddRule(@"(-col)\s(\d+)\b");
             cmdArgsValidator.AddRule(@"(-row)\s(\d+)\b");
-            cmdArgsValidator.AddRule(@"(-out)\s[a-zA-Z\\\/:]+\.(csv)\b");
-            cmdArgsValidator.AddRule(@"(-enc)\s[a-zA-Z0-9\-]+\b");
             cmdArgsValidator.AddRule(@"(-len)\s(\d+)\b");
+            cmdArgsValidator.AddRule(@"(-enc)\s[a-zA-Z0-9\-]+\b");
+            cmdArgsValidator.AddRule(@"(-out)\s[a-zA-Z\\\/:]+\.(csv)\b");
+            
+            
 
             if (!cmdArgsValidator.IsValid(string.Join(" ", args)))
             {

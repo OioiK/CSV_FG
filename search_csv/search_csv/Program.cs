@@ -10,10 +10,10 @@ namespace search_csv
         public static void ProcessCsv(string[] args)
         {
             var cmdArgsValidator = new CmdArgsValidator();
-            cmdArgsValidator.AddRule(@"(-col)\s[a-zA-Z]+\b");
             cmdArgsValidator.AddRule(@"(-in)\s[a-zA-Z0-9\\\/:]+\.(csv)\b");
             cmdArgsValidator.AddRule(@"(-out)\s[a-zA-Z0-9\\\/:]+\.(csv)\b");
             cmdArgsValidator.AddRule(@"(-enc)\s[a-zA-Z0-9\-]+\b");
+            cmdArgsValidator.AddRule(@"(-col)\s[a-zA-Z]+\b");
             cmdArgsValidator.AddRule(@"(-exp)\s[a-zA-Z0-9\-]+\b");
 
             if (!cmdArgsValidator.IsValid(string.Join(" ", args)))
