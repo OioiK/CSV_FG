@@ -29,7 +29,6 @@ C:\Users\User\Source\Repos\CSV_FG\gen_csv\gen_csv\bin\Debug\gen_csv.exe
 C:\Users\User\Source\Repos\CSV_FG\gen_csv\gen_csv\bin\Debug\gen_csv.pdb
 C:\Users\User\Source\Repos\CSV_FG\gen_csv\gen_csv\bin\Debug\CmdParser.dll
 C:\Users\User\Source\Repos\CSV_FG\gen_csv\gen_csv\bin\Debug\CmdParser.pdb
-C:\Users\User\Source\Repos\CSV_FG\gen_csv\gen_csv\obj\Debug\gen_csv.csprojAssemblyReference.cache
 C:\Users\User\Source\Repos\CSV_FG\gen_csv\gen_csv\obj\Debug\gen_csv.csproj.CoreCompileInputs.cache
 C:\Users\User\Source\Repos\CSV_FG\gen_csv\gen_csv\obj\Debug\gen_csv.csproj.CopyComplete
 C:\Users\User\Source\Repos\CSV_FG\gen_csv\gen_csv\obj\Debug\gen_csv.exe
